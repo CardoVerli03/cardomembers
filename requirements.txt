@@ -1,0 +1,6 @@
+aiogram
+supabase
+uvicorn
+apscheduler
+python-dotenv
+fastapi
